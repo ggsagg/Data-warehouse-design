@@ -6,7 +6,7 @@ The use case of this project is the worlwide aerospace routes. The data is extra
 # OPENFLIGHT DATA
 
 <p align="center">
-  <img src="input/aerospace.png" width="450" title="DW Design">
+  <img src="input/aerospace.png" width="450" title="Aerospace">
 </p>
 
 ## The DW design is as follows:
