@@ -9,3 +9,8 @@ The DW design is as follow:
 ![Alt text](input/DW-design.png?raw=true "DW Design")
 
 ![Alt text](input/DW-design-specific.png?raw=true "DW Design")
+
+<p align="center">
+  <img src="input/DW-design.png" width="350" title="DW Design">
+  <img src="input/DW-design-specific.png" width="350" alt="DW Design">
+</p>
